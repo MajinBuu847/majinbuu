@@ -2,7 +2,7 @@
 
 
 sleep 2
-figlet Majin buu
+figlet MajinBuu847
 sleep 2
 apt-get update && apt-get upgrade
 sleep 2
