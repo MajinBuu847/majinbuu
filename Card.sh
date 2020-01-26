@@ -2,7 +2,7 @@
 
 
 sleep 2
-figlet MajinBuu847
+figlet INDOnimous
 sleep 2
 apt-get update && apt-get upgrade
 sleep 2
